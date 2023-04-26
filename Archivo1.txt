@@ -1,2 +1,0 @@
-Hola soy Fernando
-Estamos en un curso de Python
